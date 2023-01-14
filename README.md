@@ -3,3 +3,5 @@
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pillowinacoma"-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pillowinacoma)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pillowinacoma/langs)](https://githubtrends.io)
