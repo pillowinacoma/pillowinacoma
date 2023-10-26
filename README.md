@@ -9,6 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=pillowinacoma&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there 👋
 </h1>
+
+I work as a Full Stack Developer (TypeScript/Node), checkout my pinned projects below
